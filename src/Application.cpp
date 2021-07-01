@@ -2,6 +2,7 @@
 
 int main(void)
 {
+    //hi
     GLFWwindow* window;
 
     /* Initialize the library */
